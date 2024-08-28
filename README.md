@@ -24,8 +24,8 @@ This project implements a neural network using TensorFlow to classify coffee roa
 1. Clone this repository:
 
    ```
-   git clone https://github.com/yourusername/coffee-roast-classification.git
-   cd coffee-roast-classification
+   git clone https://github.com/Aliabdo6/coffee-roast-classification-model.git
+   cd coffee-roast-classification-model
    ```
 
 2. Install the required packages:
